@@ -2,9 +2,9 @@ use("people")
 db.people.aggregate([
     {
         $group: {
-            _id: "$sex",  // Grupowanie dokumentów według płci
-            średniaWaga: { $avg: "$weight" },  // Obliczanie średniej wagi
-            średniWzrot: { $avg: "$height" }   // Obliczanie średniego wzrostu
+            _id: "$sex", 
+            średniaWaga: { $avg: "$weight" }, 
+            średniWzrot: { $avg: "$height" } 
         }
     }
 ]);
