@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "Student",
+    "średniWiek": 27
+  },
+  {
+    "_id": "Geologist III",
+    "średniWiek": 32.666666666666664
+  },
+  {
+    "_id": "Research Assistant II",
+    "średniWiek": 34.588235294117645
+  },
+  {
+    "_id": "Office Assistant IV",
+    "średniWiek": 35.3125
+  },
+  {
+    "_id": "Automation Specialist III",
+    "średniWiek": 36.40909090909091
+  },
+  {
+    "_id": "Programmer Analyst III",
+    "średniWiek": 37
+  },
+  {
+    "_id": "Web Developer II",
+    "średniWiek": 38.05263157894737
+  },
+  {
+    "_id": "Research Assistant I",
+    "średniWiek": 38.22727272727273
+  },
+  {
+    "_id": "Programmer III",
+    "średniWiek": 38.89655172413793
+  },
+  {
+    "_id": "Engineer I",
+    "średniWiek": 38.94736842105263
+  },
+  {
+    "_id": "Accounting Assistant I",
+    "średniWiek": 38.96
+  },
+  {
+    "_id": "Administrative Assistant IV",
+    "średniWiek": 39.095238095238095
+  },
+  {
+    "_id": "Account Representative I",
+    "średniWiek": 39.888888888888886
+  },
+  {
+    "_id": "Human Resources Assistant III",
+    "średniWiek": 40.36
+  },
+  {
+    "_id": "Marketing Assistant",
+    "średniWiek": 40.51162790697674
+  },
+  {
+    "_id": "Geologist IV",
+    "średniWiek": 40.56521739130435
+  },
+  {
+    "_id": "Staff Accountant III",
+    "średniWiek": 40.78260869565217
+  },
+  {
+    "_id": "Human Resources Assistant IV",
+    "średniWiek": 40.94736842105263
+  },
+  {
+    "_id": "Recruiter",
+    "średniWiek": 41.127906976744185
+  },
+  {
+    "_id": "Safety Technician III",
+    "średniWiek": 41.26086956521739
+  }
+]

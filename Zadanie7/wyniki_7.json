@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "AFN",
+    "totalFunds": 16755.49,
+    "averageFunds": 5585.163333333334
+  },
+  {
+    "_id": "ALL",
+    "totalFunds": 3325.48,
+    "averageFunds": 3325.48
+  },
+  {
+    "_id": "AMD",
+    "totalFunds": 24609.33,
+    "averageFunds": 4921.866
+  },
+  {
+    "_id": "ARS",
+    "totalFunds": 23242,
+    "averageFunds": 4648.4
+  },
+  {
+    "_id": "BGN",
+    "totalFunds": 21200.88,
+    "averageFunds": 5300.22
+  },
+  {
+    "_id": "BOB",
+    "totalFunds": 5263.3,
+    "averageFunds": 5263.3
+  },
+  {
+    "_id": "BRL",
+    "totalFunds": 49632.020000000004,
+    "averageFunds": 4512.001818181819
+  },
+  {
+    "_id": "BWP",
+    "totalFunds": 4076.29,
+    "averageFunds": 4076.29
+  },
+  {
+    "_id": "BYR",
+    "totalFunds": 5095.79,
+    "averageFunds": 5095.79
+  },
+  {
+    "_id": "CAD",
+    "totalFunds": 58375.6,
+    "averageFunds": 5306.872727272727
+  },
+  {
+    "_id": "CDF",
+    "totalFunds": 12228.8,
+    "averageFunds": 6114.4
+  },
+  {
+    "_id": "CLP",
+    "totalFunds": 21008.95,
+    "averageFunds": 5252.2375
+  },
+  {
+    "_id": "CNY",
+    "totalFunds": 470700.38,
+    "averageFunds": 4954.740842105263
+  },
+  {
+    "_id": "COP",
+    "totalFunds": 19746.73,
+    "averageFunds": 4936.6825
+  },
+  {
+    "_id": "CUP",
+    "totalFunds": 15017.34,
+    "averageFunds": 5005.78
+  },
+  {
+    "_id": "CZK",
+    "totalFunds": 37156.42,
+    "averageFunds": 4644.5525
+  },
+  {
+    "_id": "DOP",
+    "totalFunds": 20674.739999999998,
+    "averageFunds": 5168.6849999999995
+  },
+  {
+    "_id": "EGP",
+    "totalFunds": 5579.3,
+    "averageFunds": 5579.3
+  },
+  {
+    "_id": "ETB",
+    "totalFunds": 5436.11,
+    "averageFunds": 5436.11
+  },
+  {
+    "_id": "EUR",
+    "totalFunds": 245091.47,
+    "averageFunds": 4901.8294
+  }
+]

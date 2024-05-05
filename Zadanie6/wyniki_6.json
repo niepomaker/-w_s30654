@@ -1,0 +1,14 @@
+[
+    {
+      "_id": "Stockholm",
+      "ilość": 9
+    },
+    {
+      "_id": "Oslo",
+      "ilość": 6
+    },
+    {
+      "_id": "Göteborg",
+      "ilość": 6
+    }
+]
